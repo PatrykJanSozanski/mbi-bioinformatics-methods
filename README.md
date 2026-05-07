@@ -42,7 +42,7 @@ Counts VCF variants that overlap gene intervals from a refFlat annotation file.
 #### Usage
 
 ```bash
-python count_variants_by_gene.py path/to/variants.vcf path/to/annotation.refflat
+python count_variants_by_gene.py path/to/variants.vcf path/to/annotation.refFlat
 ```
 
 Optional arguments:
